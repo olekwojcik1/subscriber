@@ -1,0 +1,4 @@
+controllers:
+  resource: '../../src/UI/HTTP/Auth'
+  type: attribute
+  prefix: 'api/auth'
